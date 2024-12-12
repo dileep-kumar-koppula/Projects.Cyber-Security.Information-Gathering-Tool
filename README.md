@@ -1,5 +1,5 @@
 # Website Information Gathering Tool
-+ Code
++ Code (Python)
     ```python
     import os
     import socket
